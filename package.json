@@ -1,0 +1,33 @@
+{
+  "name": "naas",
+  "version": "0.0.1",
+  "description": "Nihilism as a Service",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shvelo/naas.git"
+  },
+  "keywords": [
+    "nass",
+    "service",
+    "nihilism",
+    "api",
+    "http"
+  ],
+  "author": "Nick Shvelidze <captain@pirrate.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shvelo/NaaS/issues"
+  },
+  "homepage": "https://pirrate.me/NaaS",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
